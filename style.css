@@ -15,6 +15,11 @@ body{
 .header-logo{
     font-size:2rem;
     color:white;
+
+}
+.header-logo a{
+    text-decoration: none;
+    color:white;
 }
 .header-section{
     background-color: #e6f9f0;
@@ -633,7 +638,7 @@ img[alt="feature-eight-img"]{
     margin-left:5px;
 }
 .popular-price del{
-    color:#cfcfcf;
+    color:black;
     font-weight: bold;
 }
 .popular-price span{
